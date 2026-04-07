@@ -43,6 +43,10 @@
 
 ### 📊 GitHub Stats
 
-![Emirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emircakil&show_icons=true&theme=radical&hide_border=true&v=1)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircakil&theme=radical&hide_border=true" alt="Emirhan's GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircakil&layout=compact&theme=radical&hide_border=true&v=1)
+<p align="center">
+  <img src="https://metrics.lecoq.io/emircakil?template=classic&base=languages&config.timezone=Europe%2FIstanbul" alt="Emirhan's Language Metrics" />
+</p>
