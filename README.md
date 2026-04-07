@@ -17,7 +17,6 @@
 ### 👨‍💻 About Me
 
 - 🎮 Passionate about game development, focusing on core mechanics and system design.
-- 🌱 Constantly learning and exploring new technologies in software engineering.
 - 📫 Reach out to me at: **[emir76aydin44@gmail.com](mailto:emir76aydin44@gmail.com)**
 
 ---
