@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/emircakil?template=classic&base=languages&config.timezone=Europe%2FIstanbul" alt="Emirhan's Language Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emircakil&theme=radical" alt="Emirhan's Top Languages" />
 </p>
