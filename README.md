@@ -31,13 +31,9 @@
   <img src="https://cdn.simpleicons.org/unrealengine/ffffff" alt="unrealengine" width="40" height="40" style="margin: 0 5px;"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 0 5px;"/>
@@ -47,6 +43,6 @@
 
 ### 📊 GitHub Stats
 
-![Emirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emircakil&show_icons=true&theme=radical&hide_border=true)
+![Emirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emircakil&show_icons=true&theme=radical&hide_border=true&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircakil&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircakil&layout=compact&theme=radical&hide_border=true&v=1)
